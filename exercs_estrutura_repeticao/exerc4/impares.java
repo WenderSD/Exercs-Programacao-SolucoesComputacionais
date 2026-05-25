@@ -1,4 +1,4 @@
-package exercicios.exercs_estrutura_repeticao.exerc4;
+package exercs_estrutura_repeticao.exerc4;
 
 import java.util.Scanner;
 
