@@ -1,4 +1,4 @@
-package exercicios.exercs_estrutura_condicional.exerc9;
+package exercs_estrutura_condicional.exerc9;
 
 import java.util.Scanner;
 

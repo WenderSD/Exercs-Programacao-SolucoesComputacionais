@@ -1,4 +1,4 @@
-package exercicios.exercs_estrutura_sequencial.exerc10;
+package exercs_estrutura_sequencial.exerc10;
 
 import java.util.Scanner;
 
